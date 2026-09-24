@@ -12,3 +12,4 @@ Java programs covering fundamentals, data structures, and algorithms.
 - [Setup & Installation](setup.md)
 - [JDK, JRE, and JVM Differences](jdk-jre-jvm.md)
 - [Flowcharts and Pseudocode](flowcharts-and-pseudocode.md)
+- [Variables and Data Types](variables)
