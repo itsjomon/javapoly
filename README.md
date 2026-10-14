@@ -1,2 +1,14 @@
-# javapoly
-Java fundamentals and DSA implementations
+<div align="center">
+
+# Javapoly
+
+Java programs covering fundamentals, data structures, and algorithms.
+
+</div>
+
+## Table of Contents
+
+- [Introduction](docs/intro.md)
+- [Setup and Installation](docs/setup.md)
+- [JDK, JRE, and JVM Differences](docs/jdk-jre-jvm.md)
+- [Flowcharts and Pseudocode](docs/flowcharts-and-pseudocode.md)
